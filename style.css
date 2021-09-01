@@ -7,7 +7,8 @@
 	body{
 		background: #000;
 	}
-
+	
+	/* All h1 have a gradient bg */
     	h1 {
 		background: linear-gradient(45deg, #ff63d0, #524dff);
 		text-align: center;
@@ -18,11 +19,23 @@
 	h2 {
 		color: white;
 	}
+
     	p {
       		color: white;
    	}
 
+	/* CARD is for div; gives a pink outline to a section or subsection*/
+	.card {
+     	 	border: 2px solid #ff63d0; 
+      		padding: 15px;
+      		margin: 10px;
+      		border-radius: 5px;
+    	}
 
+	/** Start of the HEXAGON nav menu
+	* Hexagons by Swarup Kumar Kuila on codepen.io
+	* Responsive section containing hexlink hexagon buttons to link to other pages
+	* -------------------------------------------------------------------------*/
 	/* wonderful hexagons by Swarup Kumar Kuila on codepen.io */
 	.container{
 		position: relative;
@@ -87,13 +100,6 @@
 		background: #0f0;
       		cursor: alias;
 	}
-
-    	.card {
-     	 	border: 2px solid #ff63d0; 
-      		padding: 15px;
-      		margin: 10px;
-      		border-radius: 5px;
-    	}
 
     	#nav-menu-hex {
       		padding: 0px;
