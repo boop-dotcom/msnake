@@ -15,7 +15,7 @@
 	}
 
     h1 {
-      background: var(main-gradient-color);
+      background: var(--main-gradient-color);
       text-align: center;
       vertical align: center;
       padding: 75px;
@@ -92,7 +92,7 @@
 	}
 
     .card {
-      border: 2px solid var(accent-pink); 
+      border: 2px solid var(--accent-pink); 
       padding: 15px;
       margin: 10px;
       border-radius: 5px;
