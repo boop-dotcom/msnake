@@ -23,7 +23,7 @@
    	}
 
 
-	<!-- wonderful hexagons by Swarup Kumar Kuila on codepen.io -->
+	/* wonderful hexagons by Swarup Kumar Kuila on codepen.io */
 	.container{
 		position: relative;
 		overflow: hidden;
@@ -72,7 +72,7 @@
      	cursor: alias;
 	}
 
-	<!-- thank you for the hexagons :) -->
+	/* thank you for the hexagons :) */
 
     	.hexlink{
       		text-align: center;
