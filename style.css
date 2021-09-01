@@ -15,6 +15,13 @@
       vertical align: center;
       padding: 75px;
     }
+	
+	h2 {
+      color: white;
+    }
+    p {
+      color: white;
+    }
 
 	.container{
 		position: relative;
@@ -87,8 +94,9 @@
     }
 
     #nav-menu-hex {
-      padding: 15px;
+      padding: 0px;
       align: center;
+	  width: 100%;
     }
 
  
