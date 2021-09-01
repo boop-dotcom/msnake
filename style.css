@@ -38,8 +38,8 @@
 	
 	.row{
 		display: inline-flex;
-		margin-left: -50px;
-		margin-top: -32px;
+		margin-left: -52px;
+		margin-top: -30px;
 		overflow: hidden;
 	}
 	.row:nth-child(even){
