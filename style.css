@@ -6,7 +6,6 @@
 
 	body{
 		background: #000;
-		min-height: 100vh;
 	}
 
     h1 {
@@ -26,7 +25,6 @@
 	.container{
 		position: relative;
 		overflow: hidden;
-		height: 100vh;
 		animation: animate 4s linear infinite;
 	}
 	@keyframes animate{
