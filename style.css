@@ -43,7 +43,7 @@
 		overflow: hidden;
 	}
 	.row:nth-child(even){
-		margin-left: 1px;
+		margin-left: -3px;
 	}
 	.hexagon{
 		position: relative;
